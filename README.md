@@ -48,9 +48,8 @@ Ben currently has a deep interest in developing (Cloud or private) multi-medium 
 		<td>* This is my preferred stack for web development at the moment. Please enquire for more information about Ben's knowledge of the stack.</td>	
 	</tr>
 	
-	
 	<tr>
-		<td>Adobe Cloud (inc photoshop, illustrator, animate / Flash/td>
+		<td>Adobe Cloud (inc photoshop, illustrator, animate / Flash</td>
 		<td>5.5/5 :)</td>    
 		<td></td>		
 		<td></td>	
