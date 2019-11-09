@@ -143,7 +143,7 @@ NB. Even though I have solid experience with gambling I'm not currently seeking 
     • High rate transactions jobs (financial markets / gambling *)
     • Developing apps for children / disabled
 
-# Research Projects: Current and Planned
+# Projects: Current and Planned
 
 Jiffy<br/>
 www.letsjiffy.com<br/>
