@@ -139,7 +139,7 @@ NB. Even though I have solid experience with gambling I'm not currently seeking 
 # Projects: current and planned
 
 Jiffy<br/>
-www.letsjiffy.com<br/>
+<!-- www.letsjiffy.com<br/> -->
 www.github.com/letsjiffy<br/>
 WIP  * [more desc here]
 
