@@ -136,17 +136,18 @@ Responsibilities:
 Comments:*References available of request
 NB. Even though I have solid experience with gambling I'm not currently seeking a position in the gambling industry
 
-# Research Interests
+# Projects: current and planned
+
+Jiffy<br/>
+www.letsjiffy.com<br/>
+www.github.com/letsjiffy<br/>
+WIP  * [more desc here]
+
+# Current research interests
 
     • Live collaboration
     • High availability apps (HA)
     • High rate transactions jobs (financial markets / gambling *)
     • Developing apps for children / disabled
 
-# Projects: Current and Planned
-
-Jiffy<br/>
-www.letsjiffy.com<br/>
-www.github.com/letsjiffy<br/>
-WIP  * [more desc here]\
   
