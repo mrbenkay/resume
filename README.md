@@ -43,7 +43,7 @@ Ben currently has a deep interest in developing (Cloud or private) multi-medium 
 	</tr>
 	<tr>
 		<td>Vue.js Javascript (with Webpack)</td>
-		<td>5.5/5 :)</td>    
+		<td>5.5/5 (advanced :)</td>    
 		<td>High fluency in research &and; commercial applications, using the most bleeding edge version (Vue 2.x & vue-cli)</td>		
 		<td>* This is my preferred stack for web development at the moment. Please enquire for more information about Ben's knowledge of the stack.</td>	
 	</tr>
@@ -58,11 +58,70 @@ Ben currently has a deep interest in developing (Cloud or private) multi-medium 
 		<td>5/5</td>    
 		<td></td>		
 		<td></td>	
-	</tr>	
+	</tr>
+	<tr>
+		<td>Back-end – PHP</td>
+		<td>5/5</td>    
+		<td></td>		
+		<td></td>	
+	</tr>
+	<tr>
+		<td>Back-end – Node</td>
+		<td>5/5</td>    
+		<td></td>		
+		<td></td>	
+	</tr>		
 	<tr>
 		<td>Adobe Cloud apps (inc Photoshop, Illustrator, animate / Flash</td>
 		<td>5/5</td>    
 		<td></td>		
+		<td></td>	
+	</tr>
+</table>
+
+
+ # Additional web development skills
+<table>
+	<tr>
+		<td>Skill</td>
+		<td>Proficiency</td>    
+		<td>Description</td>		
+		<td>Comment</td>	
+	</tr>
+	<tr>
+		<td>Back-end technologies</td>
+		<td>5/5</td>    
+		<td>.Net, Classic ASP</td>		
+		<td></td>	
+	</tr>
+	<tr>
+		<td>Cloud technology</td>
+		<td>5/5</td>    
+		<td></td>		
+		<td></td>	
+	</tr>
+	<tr>
+		<td>Linux administration</td>
+		<td>5/5</td>    
+		<td></td>		
+		<td>Secure set-up and mgt of VPS & cloud based servers.</td>	
+	</tr>	
+	<tr>
+		<td>Multi-medium tools</td>
+		<td>5/5</td>    
+		<td>NativeScript & Electron</td>		
+		<td>Mobile & desktop apps</td>	
+	</tr>
+	<tr>
+		<td>Back-end technology</td>
+		<td>4/5</td>    
+		<td>Java & Perl</td>		
+		<td>Used both while employed with IBM and since</td>	
+	</tr>	
+	<tr>
+		<td>Cloud technology</td>
+		<td>4/5</td>    
+		<td>AWS</td>		
 		<td></td>	
 	</tr>
 </table>
