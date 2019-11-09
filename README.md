@@ -126,5 +126,27 @@ Ben currently has a deep interest in developing (Cloud or private) multi-medium 
 	</tr>
 </table>
 
-  
+# Examples of Previous Positions
+
+See www.fusegroup.com.au to get an example of projects
+
+[Template (Client name/s)
+Position: 
+Responsibilities:
+Comments:*References available of request
+NB. Even though I have solid experience with gambling I'm not currently seeking a position in the gambling industry]
+
+# Research Interests
+
+    • Live collaboration
+    • High availability apps (HA)
+    • High rate transactions jobs (financial markets / gambling *)
+    • Developing apps for children / disabled
+
+Research Projects: Current and Planned
+
+[Jiffy  
+www.letsjiffy.com
+www.github.com/letsjiffy
+WIP  * [more desc here]]
   
